@@ -1,0 +1,10 @@
+name: flutter_micro_frontend_workspace
+description: Example of a Flutter micro frontend workspace.
+
+repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: ^3.5.3
+
+dev_dependencies:
+  melos: ^6.2.0
